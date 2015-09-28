@@ -1,2 +1,2 @@
 # CloudComputing
-# https://github.com/wiktorgdowski/CloudComputing.git
+https://github.com/wiktorgdowski/CloudComputing.git
